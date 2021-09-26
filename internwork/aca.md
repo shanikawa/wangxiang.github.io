@@ -1,7 +1,7 @@
 # ACA. STUDIO
 ## Poster Design 海报设计
 ### 2021.8.22 线上直播课 Online Lecture - TouchDesigner
-![Alt](imgaca/合成1.gif)
+![Alt Text](imgaca/合成1.gif)
 ### 2021.8.29 线上直播课 Online Lecture - Rhino
 ![图片Alt](imgaca/1rhino海报.png)
 ### 2021.8.29 ACA TALK - 酷儿文化与社群 Queer
