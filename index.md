@@ -16,11 +16,11 @@
 ### 古镇更新 - 浙江省绍兴市安昌古镇 Ancient Town Regeneration 
 ### 庭院设计Courtyard Landscape Design 
 
-## [Work Flow](website/index.md)
-- Step 1 reference
-- Step 2 Analysis
-- Step 3 Design
-- Step 4 Draw
+## Work Flow
+- [Step 1 reference](website/path/reference.md)
+- [Step 2 Analysis](website/path/analysis.md)
+- [Step 3 Design](website/path/design.md)
+- [Step 4 Draw](website/path/draw.md)
 
 ## Extracurricular
 ### Amateur Tennis Player
