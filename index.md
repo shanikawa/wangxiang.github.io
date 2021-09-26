@@ -12,7 +12,7 @@
 - Ancient Town Regeneration 
 - Courtyard Landscape Design 
 
-## [Work Flow](wangxiang.github.io/website/website.md)
+## [Work Flow](website/website.md)
 
 ## Extracurricular
 - Amateur Tennis Player
