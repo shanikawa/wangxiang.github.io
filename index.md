@@ -1,13 +1,18 @@
 # Wang Xiang
 ## Profile
 ### Education
-- 2019.9 - Zhejiang University Landscape Gardening
+- 2019.9 - Zhejiang University 
+<tab><tab><tab>Landscape Gardening
 
 ### Internship 
 - 2021.8 - ACA. Studio
 - 2021.7 - Feelblanc
 
 ## Projects
+### TOD 苏州北站
+### 浙江胜利剧院改造
+### 湖州义山
+### 田间凉亭
 ### Accessible Design 
 ### Ancient Town Regeneration 
 ### Courtyard Landscape Design 
