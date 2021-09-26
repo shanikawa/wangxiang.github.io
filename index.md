@@ -8,16 +8,21 @@
 - 2021.7 - Feelblanc
 
 ## Projects
-- Accessible Design 
-- Ancient Town Regeneration 
-- Courtyard Landscape Design 
+### Accessible Design 
+### Ancient Town Regeneration 
+### Courtyard Landscape Design 
 
 ## [Work Flow](website/index.md)
+- Step 1 reference
+- Step 2 Analysis
+- Step 3 Design
+- Step 4 Draw
 
 ## Extracurricular
-- Amateur Tennis Player
-  - 2019 - Present Tennis Team of ZJU   
-  - 5th - Women's Group-The Twelfth College Tennis Tournament of Zhejiang province 2021
-- Museum Doctent
-  - 2019 - Present ZJU Museum of Art and Archaeology
-  - over 100 hours
+### Amateur Tennis Player
+- 2019 - Present Tennis Team of ZJU   
+- 5th - Women's Group-The Twelfth College Tennis Tournament of Zhejiang province 2021
+- 
+### Museum Doctent
+- 2019 - Present ZJU Museum of Art and Archaeology
+- over 100 hours
