@@ -1,8 +1,7 @@
 # Wang Xiang
 ## Profile
 ### Education
-- 2019.9 - Zhejiang University 
-<tab><tab><tab>Landscape Gardening
+- 2019.9 - Zhejiang University Landscape Gardening
 
 ### Internship 
 - 2021.8 - ACA. Studio
