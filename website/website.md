@@ -1,50 +1,12 @@
 # Website Recommendation
 
-## Step 1 reference
-[reference.md]
+## [Step 1 reference](reference.md)
 
-## Step 2 Analysis
+## [Step 2 Analysis](analysis.md)
 
-## Step 3 Design
+## [Step 3 Design](design.md)
 
-## Step 4 Draw
-
-### 1 reference
-Archidose（architecture drawings）
-https://archidose.tumblr.com/tagged/student
-
-The Atlas of Places (mapping,ideas,project)
-https://www.atlasofplaces.com/
-
-ASLA STUDENT AWARDS (以2019年为例)
-https://www.asla.org/2019studentawards/
-
-Nodepfc (project)
-http://nodopfc.blogspot.com/search/label/urbanismo
-
-RIBA President Medal
-http://www.presidentsmedals.com/
-
-AA Landscape Urbanism
-http://landscapeurbanism.aaschool.ac.uk/
-
-景观设计学LAF电子版(找场地，找思路）
-http://journal.hep.com.cn/laf/EN/2095-5405/current.shtml
-
-GSD Platform (哈佛设计学院成果集)
-https://issuu.com/search?q=gsd%20platform 
-
-LA+ (宾大景观出版物)
-https://issuu.com/search?q=LA%2B 
-
-Ground up journal (加州伯克利景观出版物)
-https://issuu.com/groundupjournal 
-
-AA Landscape Urbanism （英国AA景观都市主义成果集)
-https://issuu.com/search?q=aa%20landscape%20urbanism
-
-Bartlett Year Book (英国巴特莱特成果集)
-https://issuu.com/search?q=Bartlett%20Book
+## [Step 4 Draw](draw.md)
 
 #### 类型项目参考
 ##### 创伤景观
