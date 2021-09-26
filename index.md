@@ -4,8 +4,8 @@
 - 2019.9 - Zhejiang University Landscape Gardening
 
 ### Internship
-- 2021.8 - ACA. Studio  [参与项目](internwork/aca.md)
-- 2021.7 - Feelblanc [参与项目](internwork/feelblanc.md)
+- [2021.8 - ACA. Studio](internwork/aca.md)
+- [2021.7 - Feelblanc](internwork/feelblanc.md)
 
 ## Projects
 ### TOD规划 江苏省苏州北站
@@ -26,7 +26,7 @@
 ### Amateur Tennis Player
 - 2019 - Present Tennis Team of ZJU   
 - 5th - Women's Group-The Twelfth College Tennis Tournament of Zhejiang province 2021
-- 
+
 ### Museum Doctent
 - 2019 - Present ZJU Museum of Art and Archaeology
 - over 100 hours
