@@ -13,7 +13,7 @@
 - Courtyard Landscape Design 
 
 ## Work Flow 
-[ www.wangxiang.github.io/website/website.md ]
+[ website.md ]
 
 ## Extracurricular
 - Amateur Tennis Player
