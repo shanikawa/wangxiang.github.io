@@ -3,8 +3,8 @@
 ### Education
 - 2019.9 - Zhejiang University Landscape Gardening
 
-### Internship 
-- 2021.8 - ACA. Studio  [参与项目]（internwork/aca.md）
+### Internship
+- 2021.8 - ACA. Studio  [参与项目](internwork/aca.md)
 - 2021.7 - Feelblanc [参与项目](internwork/feelblanc.md)
 
 ## Projects
