@@ -1,9 +1,8 @@
-# Wang Xiang
-## Profile
-### Education
+# Profile
+## Education
 - 2019.9 - Zhejiang University Landscape Gardening
 
-### Internship
+## Internship
 - [2021.8 - ACA. Studio](internwork/aca.md)
 - [2021.7 - Feelblanc](internwork/feelblanc.md)
 
@@ -31,7 +30,7 @@
 - 2019 - Present ZJU Museum of Art and Archaeology
 - over 100 hours
 
-# Other
-## [Books](other/books.md)
+## Other
+### [Books](other/books.md)
 
 
