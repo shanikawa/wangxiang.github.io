@@ -30,3 +30,5 @@ mapping,ideas,project
 
 [issuu - Bartlett Year Book](https://issuu.com/search?q=Bartlett%20Book)
 英国巴特莱特成果集
+
+## [类型项目参考](theme/theme.md)
