@@ -2,4 +2,4 @@
 ## Profile
 ## Projects
 ## Work Flow 
-[www.wangxiang.github.io/index.md/website.md]
+[www.wangxiang.github.io/website.md]
