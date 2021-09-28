@@ -31,4 +31,24 @@ mapping,ideas,project
 [issuu - Bartlett Year Book](https://issuu.com/search?q=Bartlett%20Book)
 英国巴特莱特成果集
 
+[WLA](https://worldlandscapearchitect.com)
+
+[Landzine](http://landezine.com/?__cf_chl_jschl_tk__=23ab6c94fe2c7b448cc709d6e3d34bb1986d8d91-1616995186-0-AQe5lqtywKTyB460hk4NNO37zvju6RiPt7mvz02VviL5LsLgzZJrdQdTeB3v-xhdJcoCNmUBqccyEMkmO-UcF2LZ5-g1vsdhK_un2z7u636AAXLmmrJY_vRpHwEcYX93D5epSvF_X_B-FQDavWo2d9i4yloSvcy8DN5_TlhiMxMu-76Nsr6zbLCouyTL06hDMKFpYcvi57kTXVZj1pD1bZBb_m2moDRKpLNcFGvwN21Mov0OG31RTknxeVZ0NBBsQkD79dvBxJn7SaLL0grHxnl5g3BcEFv76sKflIOl_7CgEMZaZAr8OlnAEOS14y9Q3Q)
+
+[Place Journal](https://placesjournal.org/?cn-reloaded=1)
+
+[Land8](https://land8.com)
+
+[Landscape Institude](https://www.landscapeinstitute.org)
+
+[Sasaki](https://www.sasaki.com)
+
+[West8](https://www.west8.com)
+
+[Landscape Architecture](https://journal.hep.com.cn/laf/EN/2095-5405/current.shtml)
+
+[Princeton Architecture](https://soa.princeton.edu)
+
+
+
 ## [类型项目参考](theme/theme.md)
