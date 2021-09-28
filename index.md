@@ -7,13 +7,18 @@
 - [2021.7 - Feelblanc](internwork/feelblanc.md)
 
 ## Projects
-### [TOD规划 江苏省苏州北站](/Project/TOD/index.md)
-### 浙江胜利剧院改造
-### [湖州义山](/Project/湖州/index.md)
-### 田间凉亭
-### 校园景观无障碍设计 Accessible Design 
-### 古镇更新 - 浙江省绍兴市安昌古镇 Ancient Town Regeneration 
-### 庭院设计Courtyard Landscape Design 
+### Architecture
+- 浙江胜利剧院改造
+- 田间凉亭
+
+### Urban Design
+- [TOD规划 江苏省苏州北站](/Project/TOD/index.md)
+- 古镇更新 - 浙江省绍兴市安昌古镇 Ancient Town Regeneration 
+
+### Landscape
+- [湖州义山](/Project/湖州/index.md)
+- 校园景观无障碍设计 Accessible Design 
+-  庭院设计Courtyard Landscape Design 
 
 ## Work Flow
 - [Step 1 reference](website/path/reference.md)
@@ -34,5 +39,5 @@
 
 ## Other
 ### [Books](other/books.md)
-
-
+### [Movies](other/movies.md)
+### [Theatres](other/theatres.md)
