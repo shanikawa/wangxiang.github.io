@@ -9,7 +9,7 @@
 ## Projects
 ### [TOD规划 江苏省苏州北站](/Project/TOD/index.md)
 ### 浙江胜利剧院改造
-### 湖州义山
+### [湖州义山](/Project/湖州/index.md)
 ### 田间凉亭
 ### 校园景观无障碍设计 Accessible Design 
 ### 古镇更新 - 浙江省绍兴市安昌古镇 Ancient Town Regeneration 
