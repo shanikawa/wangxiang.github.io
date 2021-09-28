@@ -28,6 +28,8 @@
 
 - [文献查找网站](website/path/文献.md)
 
+- [2D设计](website/2D设计.md)
+
 ## Extracurricular
 ### Amateur Tennis Player
 - 2019 - Present Tennis Team of ZJU   
