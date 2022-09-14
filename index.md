@@ -7,7 +7,7 @@
 - [2021.7 - Feelblanc](internwork/feelblanc.md)
 
 ## Philosophy
-### [Workflow](philosophy/workflow)
+### [Workflow](philosophy/workflow.md)
 
 ## Projects
 ### Architecture
