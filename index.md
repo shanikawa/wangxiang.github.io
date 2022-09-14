@@ -6,6 +6,9 @@
 - [2021.8 - ACA. Studio](internwork/aca.md)
 - [2021.7 - Feelblanc](internwork/feelblanc.md)
 
+## Philosophy
+### [Workflow](philosophy/workflow)
+
 ## Projects
 ### Architecture
 - 浙江胜利剧院改造
